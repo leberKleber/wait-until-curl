@@ -29,7 +29,7 @@ Sleep time in seconds between requests. Default 1
 
 `WUC_MAX_INTERATION`
 
-Max retries to reach expected value
+Max retries to reach expected value. Default -1 (endless)
 
 
 ## Example
